@@ -1,0 +1,16 @@
+C:\Users\test\source\repos\FileSysWatcher\FileSysWatcher\bin\Debug\net5.0\FileSysWatcher.exe
+C:\Users\test\source\repos\FileSysWatcher\FileSysWatcher\bin\Debug\net5.0\FileSysWatcher.deps.json
+C:\Users\test\source\repos\FileSysWatcher\FileSysWatcher\bin\Debug\net5.0\FileSysWatcher.runtimeconfig.json
+C:\Users\test\source\repos\FileSysWatcher\FileSysWatcher\bin\Debug\net5.0\FileSysWatcher.runtimeconfig.dev.json
+C:\Users\test\source\repos\FileSysWatcher\FileSysWatcher\bin\Debug\net5.0\FileSysWatcher.dll
+C:\Users\test\source\repos\FileSysWatcher\FileSysWatcher\bin\Debug\net5.0\ref\FileSysWatcher.dll
+C:\Users\test\source\repos\FileSysWatcher\FileSysWatcher\bin\Debug\net5.0\FileSysWatcher.pdb
+C:\Users\test\source\repos\FileSysWatcher\FileSysWatcher\obj\Debug\net5.0\FileSysWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\source\repos\FileSysWatcher\FileSysWatcher\obj\Debug\net5.0\FileSysWatcher.AssemblyInfoInputs.cache
+C:\Users\test\source\repos\FileSysWatcher\FileSysWatcher\obj\Debug\net5.0\FileSysWatcher.AssemblyInfo.cs
+C:\Users\test\source\repos\FileSysWatcher\FileSysWatcher\obj\Debug\net5.0\FileSysWatcher.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\FileSysWatcher\FileSysWatcher\obj\Debug\net5.0\FileSysWatcher.dll
+C:\Users\test\source\repos\FileSysWatcher\FileSysWatcher\obj\Debug\net5.0\ref\FileSysWatcher.dll
+C:\Users\test\source\repos\FileSysWatcher\FileSysWatcher\obj\Debug\net5.0\FileSysWatcher.pdb
+C:\Users\test\source\repos\FileSysWatcher\FileSysWatcher\obj\Debug\net5.0\FileSysWatcher.genruntimeconfig.cache
+C:\Users\test\source\repos\FileSysWatcher\FileSysWatcher\obj\Debug\net5.0\FileSysWatcher.csproj.AssemblyReference.cache
