@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\test\\source\\repos\\FileSysWatcher\\FileSysWatcher\\FileSysWatcher.csproj": {}
+    "C:\\Users\\shifa\\Desktop\\src\\FileSysWatcher\\FileSysWatcher\\FileSysWatcher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\test\\source\\repos\\FileSysWatcher\\FileSysWatcher\\FileSysWatcher.csproj": {
+    "C:\\Users\\shifa\\Desktop\\src\\FileSysWatcher\\FileSysWatcher\\FileSysWatcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\test\\source\\repos\\FileSysWatcher\\FileSysWatcher\\FileSysWatcher.csproj",
+        "projectUniqueName": "C:\\Users\\shifa\\Desktop\\src\\FileSysWatcher\\FileSysWatcher\\FileSysWatcher.csproj",
         "projectName": "FileSysWatcher",
-        "projectPath": "C:\\Users\\test\\source\\repos\\FileSysWatcher\\FileSysWatcher\\FileSysWatcher.csproj",
-        "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\test\\source\\repos\\FileSysWatcher\\FileSysWatcher\\obj\\",
+        "projectPath": "C:\\Users\\shifa\\Desktop\\src\\FileSysWatcher\\FileSysWatcher\\FileSysWatcher.csproj",
+        "packagesPath": "C:\\Users\\shifa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shifa\\Desktop\\src\\FileSysWatcher\\FileSysWatcher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\test\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
